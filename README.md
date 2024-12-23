@@ -1,4 +1,4 @@
- a Python script to visualize and execute a Deep Neural Network made with PyTorch. For understanding Deep Learning & Machine Learning for Shaping Artificial-Intelligence(AI). 
+ a Simple Python script to visualize and execute a (Deep Neural Network(DNN) made with PyTorch. For understanding Deep Learning & Machine Learning for Shaping Artificial-Intelligence(AI). 
 
  libraries to have or install for Python code:
  torch https://pytorch.org/
